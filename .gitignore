@@ -1,0 +1,15 @@
+*~
+~*
+
+.DS_Store
+.idea/*
+.hg/*
+
+*.db
+*.pyc
+*.pyd
+*.pyo
+*.swp
+*.swo
+*.xml
+*.xlsx
